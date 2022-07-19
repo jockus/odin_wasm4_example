@@ -1,4 +1,14 @@
-# test
+# odin_wasm4_example
+
+To install, run a MSVC x64 native Tools Command Prompt
+
+* git clone --recurse-submodules https://github.com/jockus/odin_wasm4_example
+* cd odin_wasm4_example
+* cd odin
+* build
+* cd ..
+* setup.bat
+* build.bat
 
 A game written in Odin for the [WASM-4](https://wasm4.org) fantasy console.
 
